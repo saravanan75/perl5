@@ -1,0 +1,27 @@
+2022-01-10 00:00:00 This is the log file for application that will is currently being tested
+2022-01-10 00:00:01 visa 4455556666777788
+2022-01-10 00:00:02 The transaction has been successfully processed.
+2022-01-10 00:00:03 Fetching the data for the next trasaxtion.
+2022-01-10 00:00:04 Data successfully fecthed from the database.
+2022-01-10 00:00:04 Cursors closed and lock has been released
+2022-01-10 00:00:06 Processing new transaction 
+2022-01-10 00:00:07 visa 4455556666777788
+2022-01-10 00:00:08 The transaction has been successfully processed.
+2022-01-10 00:00:09 Fetching the data for the next trasaxtion.
+2022-01-10 00:00:09 Data successfully fecthed from the database.
+2022-01-10 00:00:09 Cursors closed and lock has been released
+2022-01-10 00:01:00 amex 345656565658944
+2022-01-10 00:01:01 The transaction has been successfully processed.
+2022-01-10 00:01:02 Fetching the data for the next trasaxtion.
+2022-01-10 00:01:03 Data successfully fecthed from the database.
+2022-01-10 00:01:04 Cursors closed and lock has been released
+2022-01-10 00:01:10 visa 4455556666776655
+2022-01-10 00:01:11 The transaction has been successfully processed.
+2022-01-10 00:01:12 Fetching the data for the next trasaxtion.
+2022-01-10 00:01:12 Data successfully fecthed from the database.
+2022-01-10 00:01:12 Cursors closed and lock has been released
+2022-01-10 00:01:13 visa 4455909098988787
+2022-01-10 00:01:14 The transaction has been successfully processed.
+2022-01-10 00:01:14 Fetching the data for the next trasaxtion.
+2022-01-10 00:01:15 Data successfully fecthed from the database.
+2022-01-10 00:01:15 Cursors closed and lock has been released
