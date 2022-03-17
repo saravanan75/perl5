@@ -1,5 +1,0 @@
-# Demonstrate Perl Hash. 
-#!/usr/bin/perl
-use strict;
-use warnings;
-
